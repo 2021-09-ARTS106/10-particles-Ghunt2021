@@ -435,3 +435,184 @@ Received Import Request.
   path: Assets/EffectExamples/FireExplosionEffects/Materials/LightningParticle.mat
   artifactKey: Guid(123ac6dc79004e54b8b352a7e64acdca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/EffectExamples/FireExplosionEffects/Materials/LightningParticle.mat using Guid(123ac6dc79004e54b8b352a7e64acdca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9a46de58959eb67a43f1265434155fa') in 0.008316 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 645.047006 seconds.
+  path: Assets/EffectExamples/FireExplosionEffects/Prefabs/BigExplosionEffect.prefab
+  artifactKey: Guid(acf39d9f4addf294d93fa56fa373961b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/FireExplosionEffects/Prefabs/BigExplosionEffect.prefab using Guid(acf39d9f4addf294d93fa56fa373961b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd806dd0c062112327312aee155ae142b') in 0.015076 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/EffectExamples/FireExplosionEffects/Prefabs/PlasmaExplosionEffect.prefab
+  artifactKey: Guid(96730f8640590934eacb6f860058e7f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/FireExplosionEffects/Prefabs/PlasmaExplosionEffect.prefab using Guid(96730f8640590934eacb6f860058e7f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a25124a7401db89dd2a447bd44f77dc2') in 0.006376 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/EffectExamples/FireExplosionEffects/Prefabs/SmokeEffect.prefab
+  artifactKey: Guid(85a8865d1bf4a63478038fae23776de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/FireExplosionEffects/Prefabs/SmokeEffect.prefab using Guid(85a8865d1bf4a63478038fae23776de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '077d248df6ebee9116745efbae821626') in 0.006109 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/EffectExamples/FireExplosionEffects/Prefabs/WallFlames.prefab
+  artifactKey: Guid(2c7e85f4b03483447a66947c83fb7468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/FireExplosionEffects/Prefabs/WallFlames.prefab using Guid(2c7e85f4b03483447a66947c83fb7468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9443f03661742dd133922d2c4f3f6808') in 0.179664 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/EffectExamples/FireExplosionEffects/Prefabs/DrippingFlames.prefab
+  artifactKey: Guid(ce4133109fd2cb7469faad8e7c4307a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/FireExplosionEffects/Prefabs/DrippingFlames.prefab using Guid(ce4133109fd2cb7469faad8e7c4307a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4620eca6501113724479a430df5ae9b7') in 0.011564 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/EffectExamples/FireExplosionEffects/Prefabs/FlameThrowerEffect.prefab
+  artifactKey: Guid(3123da49cb81147489b444f2749aba47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/FireExplosionEffects/Prefabs/FlameThrowerEffect.prefab using Guid(3123da49cb81147489b444f2749aba47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c73cf8fbfc0b4858cfb3184a3bfe396') in 0.011662 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/EffectExamples/FireExplosionEffects/Prefabs/TorchEffect.prefab
+  artifactKey: Guid(3cdf614b79009ca49a2a5c117fb49c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/FireExplosionEffects/Prefabs/TorchEffect.prefab using Guid(3cdf614b79009ca49a2a5c117fb49c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27a59253c7a3d9ef617582332e9b0050') in 0.011447 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/EffectExamples/FireExplosionEffects/Prefabs/SmallExplosionEffect.prefab
+  artifactKey: Guid(ecdd96beb7f93494880c052dfccf9dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/FireExplosionEffects/Prefabs/SmallExplosionEffect.prefab using Guid(ecdd96beb7f93494880c052dfccf9dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89a2326a423947574d7220d9d25ec525') in 0.006236 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/EffectExamples/FireExplosionEffects/Prefabs/FlamesParticleEffect.prefab
+  artifactKey: Guid(3228a22491941734bb83ad691d17fcb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/FireExplosionEffects/Prefabs/FlamesParticleEffect.prefab using Guid(3228a22491941734bb83ad691d17fcb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75b35f8f7a1fd18c40b5e2b9c6ce9a98') in 0.006261 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/EffectExamples/FireExplosionEffects/Prefabs/RibbonSmoke.prefab
+  artifactKey: Guid(4d35711ba17dcd4409264568d9155360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/FireExplosionEffects/Prefabs/RibbonSmoke.prefab using Guid(4d35711ba17dcd4409264568d9155360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b4785095d5df1d72808ede5b05e165b') in 0.005810 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/EffectExamples/FireExplosionEffects/Prefabs/FlamesEffects.prefab
+  artifactKey: Guid(b9e167e31f640b34f87caab122fca598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/FireExplosionEffects/Prefabs/FlamesEffects.prefab using Guid(b9e167e31f640b34f87caab122fca598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9533dab6631533a61c6c4ad3cb9f1f56') in 0.013390 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 80.557585 seconds.
+  path: Assets/EffectExamples/FireExplosionEffects/Prefabs/New Material.mat
+  artifactKey: Guid(df360454a1982c0489ecb224c825b8ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/FireExplosionEffects/Prefabs/New Material.mat using Guid(df360454a1982c0489ecb224c825b8ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd579977f202cc14e63839028bbeaf41') in 0.010443 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.167756 seconds.
+  path: Assets/EffectExamples/FireExplosionEffects/Prefabs/MAT - Particle.mat
+  artifactKey: Guid(df360454a1982c0489ecb224c825b8ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/FireExplosionEffects/Prefabs/MAT - Particle.mat using Guid(df360454a1982c0489ecb224c825b8ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '418b1a59cef2bc8bf5107284b2728143') in 0.008720 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 164.737437 seconds.
+  path: Assets/EffectExamples/WeaponEffects/Textures/FlashParticle.tif
+  artifactKey: Guid(c826d12aca5bdda4c900b00833f6d875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/WeaponEffects/Textures/FlashParticle.tif using Guid(c826d12aca5bdda4c900b00833f6d875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '859c605d448b1d49f07c483fac7c564f') in 0.011369 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/EffectExamples/WeaponEffects/Textures/FleshBulletHoleNormals.tif
+  artifactKey: Guid(372fe723afe65ed41a5b38da5faf82a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/WeaponEffects/Textures/FleshBulletHoleNormals.tif using Guid(372fe723afe65ed41a5b38da5faf82a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0ef7eafd9f18e3a3b1244444896f692') in 0.020301 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/EffectExamples/Shared/Textures/fleshNormals.tif
+  artifactKey: Guid(82b123d008de09948adc8d1433889121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Shared/Textures/fleshNormals.tif using Guid(82b123d008de09948adc8d1433889121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0dc2dad17032b6de12ea3460a54062f') in 0.010393 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/EffectExamples/WeaponEffects/Textures/FleshBulletHoleHeight.tif
+  artifactKey: Guid(5382afe8f6b22e24d9568f8c0be503a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/WeaponEffects/Textures/FleshBulletHoleHeight.tif using Guid(5382afe8f6b22e24d9568f8c0be503a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '024d72808401614463d5b29e23be29bc') in 0.009646 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/EffectExamples/WeaponEffects/Textures/FleshBulletHoleAlbedo.tif
+  artifactKey: Guid(5ef8c65d978f7f74e8a6cb763425f6db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/WeaponEffects/Textures/FleshBulletHoleAlbedo.tif using Guid(5ef8c65d978f7f74e8a6cb763425f6db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81230a470ef0d513e409eb08851cf320') in 0.009108 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 159.349955 seconds.
+  path: Assets/EffectExamples/FireExplosionEffects/Materials/FlameRoundYellowParticle.mat
+  artifactKey: Guid(d7f098ed9997e714193be5e86df013f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/FireExplosionEffects/Materials/FlameRoundYellowParticle.mat using Guid(d7f098ed9997e714193be5e86df013f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a28e8526aa448ebc9aefcac1e85f045') in 0.011112 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/EffectExamples/FireExplosionEffects/Prefabs/MAT - Particle.mat
+  artifactKey: Guid(df360454a1982c0489ecb224c825b8ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/FireExplosionEffects/Prefabs/MAT - Particle.mat using Guid(df360454a1982c0489ecb224c825b8ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c83eeb8aa6063445f4b8a50db5f483b') in 0.008914 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 96.859103 seconds.
+  path: Assets/EffectExamples/Misc Effects/Materials
+  artifactKey: Guid(fa0512736a8c54fbea2bbab3574c3237) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Misc Effects/Materials using Guid(fa0512736a8c54fbea2bbab3574c3237) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b33ba1bac24ee17bf4cad411d91047bd') in 0.005666 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.775492 seconds.
+  path: Assets/EffectExamples/Misc Effects/Prefabs
+  artifactKey: Guid(fca85df12e535493183bed364873ede7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Misc Effects/Prefabs using Guid(fca85df12e535493183bed364873ede7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c08ba7ec3d1d39d5ec1d9bf17581f7d5') in 0.004893 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.872613 seconds.
+  path: Assets/EffectExamples/Misc Effects/Prefabs/DustMotesEffect.prefab
+  artifactKey: Guid(5ca4c580b3888314581688fa46fb142d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Misc Effects/Prefabs/DustMotesEffect.prefab using Guid(5ca4c580b3888314581688fa46fb142d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94703b168d3599fb2744b464fb530439') in 0.006847 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/EffectExamples/Misc Effects/Prefabs/SandSwirlsEffect.prefab
+  artifactKey: Guid(14d81e2c407975245973a11cdfbeb902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Misc Effects/Prefabs/SandSwirlsEffect.prefab using Guid(14d81e2c407975245973a11cdfbeb902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9ab8190eef07edc3f6372710f71877a') in 0.006242 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/EffectExamples/Misc Effects/Prefabs/SparksEffect.prefab
+  artifactKey: Guid(78b71003e8b357d4bbf89c8b5e5e4f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Misc Effects/Prefabs/SparksEffect.prefab using Guid(78b71003e8b357d4bbf89c8b5e5e4f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '799b98ed9316d5e0b2a663be4412b167') in 0.006462 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/EffectExamples/Misc Effects/Prefabs/ElectricalSparksEffect.prefab
+  artifactKey: Guid(96b2ec0239d11fa4b9792311efceb8ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Misc Effects/Prefabs/ElectricalSparksEffect.prefab using Guid(96b2ec0239d11fa4b9792311efceb8ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b782471e8c28898579c547ed12e29389') in 0.011686 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.857802 seconds.
+  path: Assets/EffectExamples/Misc Effects/Materials/DustMoteParticle.mat
+  artifactKey: Guid(e27a3e2f84809914fa5bf3a7ac14ce9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Misc Effects/Materials/DustMoteParticle.mat using Guid(e27a3e2f84809914fa5bf3a7ac14ce9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9021effd9bfbf0d4242549e2d0a600b') in 0.045411 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.859525 seconds.
+  path: Assets/EffectExamples/Misc Effects/Materials/SandSwirlsParticle.mat
+  artifactKey: Guid(795ab1f41a8fd4142859110cee203fd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Misc Effects/Materials/SandSwirlsParticle.mat using Guid(795ab1f41a8fd4142859110cee203fd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a446026f660f1446aa26267ecedbc314') in 0.010265 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.344257 seconds.
+  path: Assets/EffectExamples/Misc Effects/Textures/SparkParticle.tif
+  artifactKey: Guid(2c9ba3deede9b844c84fabc9d8b70c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Misc Effects/Textures/SparkParticle.tif using Guid(2c9ba3deede9b844c84fabc9d8b70c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22409c9edc49e345b436ad809ae65909') in 0.009721 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.453257 seconds.
+  path: Assets/EffectExamples/Profiles/EffectsProfile.asset
+  artifactKey: Guid(fd12609cdb539f941a85cc98e826d1ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Profiles/EffectsProfile.asset using Guid(fd12609cdb539f941a85cc98e826d1ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18e5d4bc305b0902fbbd1a4c31ba96d5') in 0.005139 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
